@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/RowenaSayed">
-    <img width="80%" alt="Hello, I'm Rowena" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20I'm%20Rowena%20👩‍💻&fontSize=28&fontAlignY=35&animation=fadeIn" />
+    <img width="80%" alt="Hello, I'm Rowena" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20I'm%20Rowena%20&fontSize=28&fontAlignY=35&animation=fadeIn" />
   </a>
 </p>
 
