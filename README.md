@@ -62,8 +62,3 @@ Hi, I’m **Rowena Sayed**, a Computer Science student from **Luxor, Egypt**
   <a href="https://github.com/RowenaSayed"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RowenaSayed&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
