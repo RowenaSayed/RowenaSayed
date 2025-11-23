@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/RowenaSayed">
     <img width="90%" alt="Hello, I'm Rowena"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF69B4,100:00BFFF&height=200&section=header&text=Hey%20I'm%20Rowena!&fontSize=38&fontAlignY=35&animation=fadeIn" />
+      src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Hey%20I'm%20Rowena!&fontSize=38&fontAlignY=35&animation=fadeIn" />
   </a>
 </p>
 
