@@ -56,11 +56,3 @@ I'm a **Front-End Developer (MERN Stack)** passionate about building **clean, re
 
 ---
 
-<div align="center">
-  
-### Thanks for visiting!  
-**Keep building, keep growing 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=RowenaSayed&color=blueviolet" />
-
-</div>
