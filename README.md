@@ -12,45 +12,37 @@
 
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> About Me
 
-Welcome to my GitHub! I'm a **Front-End Developer (MERN Stack)** with a passion for crafting **responsive, user-friendly applications** and integrating seamless back-end solutions.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> About Me
 
+I'm a **Front-End Developer (MERN Stack)** focused on building **clean, responsive, and user-friendly web applications** with solid integrations on the backend.
 
-- <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20px"> Developing web apps with **React.js, Node.js, Express, and MongoDB**
-- <img src="https://cdn-icons-png.flaticon.com/512/381/381581.png" width="20px"> Building responsive UIs using **Tailwind CSS & Bootstrap**
-- <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="20px"> Experienced in **RESTful APIs, JWT authentication, and dashboards**
-- <img src="https://cdn-icons-png.flaticon.com/512/3002/3002543.png" width="20px"> Enthusiastic about **clean, maintainable code** and team collaboration
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> Education
-
-<div align="left">
-  
-  **B.Sc. in Computer Science** — Luxor University  
-
-  
-</div>
+### What I Do
+- <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="18px"> Develop apps using **React.js, Node.js, Express, MongoDB**
+- <img src="https://cdn-icons-png.flaticon.com/512/381/381581.png" width="18px"> Create responsive UIs with **Tailwind CSS & Bootstrap**
+- <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="18px"> Work with **REST APIs, JWT Auth, and dashboards**
+- <img src="https://cdn-icons-png.flaticon.com/512/3002/3002543.png" width="18px"> Love writing **clean, maintainable code**
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px"> Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25px"> Education
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400">
-</div> -->
-
-### <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20px"> MERN Stack Intern | DEPI-Next Academy  
-**MERN Stack Intern – DEPI-Next Academy** (Jul–Dec 2025)  
-Built full-stack apps, practiced deployment & team collaboration.  
-
-
-### <img src="https://cdn-icons-png.flaticon.com/512/381/381581.png" width="20px"> Frontend Development Trainee | ITI-Qena  
-**Frontend Trainee – ITI Qena** (Aug–Sep 2024)  
-Focused on HTML, CSS, JavaScript, and responsive design. 
+**B.Sc. in Computer Science** — Luxor University  
 
 ---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Experience
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="18px"> MERN Stack Intern | DEPI-Next Academy  
+**Jul–Dec 2025**  
+Worked on full-stack apps, deployment, and team collaboration.
+
+### <img src="https://cdn-icons-png.flaticon.com/512/381/381581.png" width="18px"> Frontend Development Trainee | ITI-Qena  
+**Aug–Sep 2024**  
+Focused on HTML, CSS, JavaScript, and responsive design.
+
+---
+
 
 ## Featured Projects
 <p align="center">
