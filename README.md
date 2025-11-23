@@ -37,9 +37,9 @@ Welcome to my GitHub! I'm a **Front-End Developer (MERN Stack)** with a passion 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px"> Experience
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400">
-</div>
+</div> -->
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20px"> MERN Stack Intern | DEPI-Next Academy  
 **MERN Stack Intern – DEPI-Next Academy** (Jul–Dec 2025)  
