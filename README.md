@@ -42,7 +42,6 @@ A cross-platform mobile application designed to enhance the museum visitor exper
 - **Key Features:** Smart museum map, artifact recognition, AI assistant, audio guides, personalized routes, and multilingual support.
 - **Tech Stack:** React Native, Expo, JavaScript, REST APIs, GIS, AI APIs, i18n.
 - 🔗 **Live Demo:** [NEFRA](https://nefra-download.vercel.app/)
-- 🔗 **GitHub:** [Repository](https://github.com/RowenaSayed)
 
 ---
 
